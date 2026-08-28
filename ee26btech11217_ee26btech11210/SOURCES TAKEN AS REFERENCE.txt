@@ -1,0 +1,6 @@
+ SOURCES TAKEN AS REFERENCE:
+GEMINI:Used as a reference for writing and developing the code.
+CHATGPT:Used for modifying, improving, and organizing the written document.
+ TINKERCAD:Used for designing and creating the circuit diagrams.
+PDF REFERENCE MATERIAL:Used for understanding and verifying the required connections.
+GOOGLE:Used as a source for images of the components.
