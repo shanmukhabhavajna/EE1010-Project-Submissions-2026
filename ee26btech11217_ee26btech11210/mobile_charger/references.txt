@@ -1,0 +1,7 @@
+refernces:
+AI tools: ChatGPT and Gemini
+Youtube videos:
+	https://youtu.be/ZMys3FkI9RM(for capacitor filter)
+
+	https://youtu.be/FE_peKaYGF4(for basics of rectifier)
+   
