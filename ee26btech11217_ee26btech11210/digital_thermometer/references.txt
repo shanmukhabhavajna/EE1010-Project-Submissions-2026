@@ -1,0 +1,6 @@
+references used:
+circuit diagram images: generated using chatgpt
+LSQ calibration: gemini
+hardware connections: referred from the pdfin arattai and chatgpt
+3D Modelling code for openscad: Chatgpt
+
