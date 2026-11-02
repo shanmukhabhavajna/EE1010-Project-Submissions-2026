@@ -1,0 +1,5 @@
+references:
+
+CHATGPT for debugging hardware and code
+CLAUDE for generating the connections
+git repository given (used partially) for understanding the theory
